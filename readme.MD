@@ -1,1 +1,1 @@
-Basic Flap game in Vanilla JS
+# Basic Flap game in Vanilla JS
